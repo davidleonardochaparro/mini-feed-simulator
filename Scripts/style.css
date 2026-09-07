@@ -1,0 +1,17 @@
+/* * {outline: 1px solid red;} */
+
+.card {
+    min-width: 124px !important;
+    max-width: 256px;
+}
+
+#header-container, 
+#filters-container, 
+#posts-container,
+#form-container {
+    max-width: 1320px;
+}
+
+#search-bar, #filters-radio {
+    width: 64.5%;
+}
