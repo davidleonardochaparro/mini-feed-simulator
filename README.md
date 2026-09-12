@@ -1,4 +1,4 @@
-🌐 Live landing page demo: [Mini Feed Simulator] (https://davidleonardochaparro.github.io/mini-feed-simulator/)
+🌐 Live page demo: [Mini Feed Simulator] (https://davidleonardochaparro.github.io/mini-feed-simulator/)
 
  # Mini Feed Simulator
 
